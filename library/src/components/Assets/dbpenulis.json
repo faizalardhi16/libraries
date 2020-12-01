@@ -1,0 +1,44 @@
+[   
+    {
+        "id":1,
+        "nama":"Randall Monroe",
+        "ISBN":"9781789807554",
+        "ebook":"what if ? absurd Question.pdf",
+        "status":"Approve"
+    },
+    {
+        "id":2,
+        "nama":"Morris Willimson",
+        "ISBN":"9781789807554",
+        "ebook":"Glyph.pdf",
+        "status":"Approve"
+    },
+    {
+        "id":3,
+        "nama":"J. K. Rowling",
+        "ISBN":"9781789807554",
+        "ebook":"Harry Potter",
+        "status":"Cancel"
+    },
+    {
+        "id":4,
+        "nama":"Rachel Hartman",
+        "ISBN":"9781789807554",
+        "ebook":"tessonroad.pdf",
+        "status":"Waiting to Verified"
+    },
+    {
+        "id":5,
+        "nama":"Aziz Oni On",
+        "ISBN":"9781789807554",
+        "ebook":"7ds.jpg",
+        "status":"Waiting to Verified"
+    },
+    {
+        "id":6,
+        "nama":"Sugeng No Pants",
+        "ISBN":"9781789807554",
+        "ebook":"fixyou.jpg",
+        "status":"Waiting to Verified"
+    }
+]

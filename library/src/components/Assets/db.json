@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "judul":"What if? Absurd Question",
+        "category":"social",
+        "pages":"219",
+        "public":"March 29, 2020",
+        "penulis":"Randall Munroe",
+        "image":"gambar1",
+        "isbn":"91234567789"
+    },
+    {
+        "id":2,
+        "judul":"Glyph: New look on things",
+        "category":"horor",
+        "pages":"229",
+        "public":"April 29, 2020",
+        "penulis":"Morris Williamson",
+        "image":"gambar2",
+        "isbn":"91234564389"
+    },
+    {
+        "id":3,
+        "judul":"Harry Potter and Goblet of fire",
+        "category":"sci-fi",
+        "pages":"239",
+        "public":"June 29, 2020",
+        "penulis":"J. K. Rowling",
+        "image":"gambar3",
+        "isbn":"92324567789"
+    },
+    {
+        "id":4,
+        "judul":"Tess on the Road",
+        "category":"social",
+        "pages":"249",
+        "public":"August 29, 2020",
+        "penulis":"Rachel Hartman",
+        "image":"gambar4",
+        "isbn":"91323567789"
+    }
+]

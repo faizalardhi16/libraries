@@ -1,0 +1,98 @@
+
+
+@font-face {
+    font-family: "Metropolis Medium";
+    src: url('../Assets/Metropolis-Medium.otf');
+    }
+
+.indentImage{
+    border-radius:50%;
+    padding: 1px;
+    box-shadow: 1px 1px 15px 5px#b2bec3;
+    position: relative;
+    left:30%;
+    width:30%;
+}
+
+.imegs{
+    height: 300px;
+}
+
+.logo{
+    position: relative;
+    left: 0;
+    width: 40%;
+    right: 50%;
+}
+
+.jumbotrons{
+    background:pink;
+    padding:10px;
+    border-radius: 10px;
+}
+
+.navigate{
+    border-bottom: 1px solid #C9C9C9;
+    padding-bottom:30px;
+    justify-content: center;
+    text-align: center;
+}
+
+.Links:hover{
+    text-decoration: none;
+}
+
+.menus{
+    padding-top: 80px;
+}
+
+.icon{
+    font-size: 40px;
+    margin-top:2px;
+    margin-right: 20px;
+    align-items:center;
+}
+.child-menus{
+    color:#929292;
+    font-size: 20px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.child-menus:hover{
+    background:#ff4f00;
+    border-radius:50px;
+    color:white;
+    text-decoration: none;
+}
+
+.linku:hover{
+    text-decoration: none;
+}
+
+
+.child-menus p{
+    align-items: center;
+    margin-top: 20px;
+    padding-top:5px;
+    font-family: "Metropolis Medium";
+}
+
+.child-menus p:hover{
+    text-decoration: none;
+}
+
+
+.containers{
+    width:90%;
+    margin:0 auto;
+    padding-top: 30px;
+}
+
+.aside{
+    max-width: 20px;
+}

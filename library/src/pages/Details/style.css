@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.muted{
+    font-family: 'Quicksand', sans-serif;
+    color:#929292;
+    font-size: 18px;
+}
+
+.list-order li{
+    margin-bottom: 30px;
+}
+
+.detil{
+    border-bottom: 2px solid #b2bec3;
+    padding-bottom:30px;
+}
+
+.img{
+    height: 500px;
+    border-radius: 5px;
+}
+
+.main{
+    text-align:justify;
+    padding-top: 50px;
+}
+
+.main h1{
+    font-family: classic;
+    font-weight: bold;
+}
+
+
+.main p{
+    font-family: 'Quicksand', sans-serif;
+    color:#929292;
+    font-size: 18px;
+}
+
+
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btnL{
+    margin-right: 30px;
+    width:150px;
+    height:50px;
+    background: #EE4622;
+    border:none;
+    border-radius:5px;
+    color: white;
+    outline:none;
+}
+
+.btnR{
+    margin-right: 30px;
+    width:150px;
+    height:50px;
+    border:none;
+    border-radius:5px;
+    background:#dfe6e9;
+    outline:none;
+}
+
+.btnL:active, .btnR:focus{
+    outline:none;
+}
+
+.btnL:focus, .btnR:focus{
+    outline:none;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "name":"social"
+    },
+    {
+        "id":2,
+        "name":"sci-fi"
+    },
+    {
+        "id":3,
+        "name":"horor"
+    },
+    {
+        "id":4,
+        "name":"all"
+    }
+]

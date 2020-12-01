@@ -1,0 +1,36 @@
+.btn1{
+    max-width:100%;
+    display:flex;
+    justify-content: flex-start;
+}
+
+.btn1 button{
+    width:250px;
+    background: #f1f2f6;
+    border: 3px solid #ced6e0;
+    height:50px;
+}
+
+.btn2{
+    max-width:100%;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.btn2 button{
+    width:250px;
+    height:50px;
+    border: none;
+    border-radius:8px;
+    color:white;
+    font-weight: 700;
+    background: #ff4f00;
+}
+
+.btn1 button:active{
+    outline:none;
+}
+
+.btn1 button:focus{
+    outline:none;
+}
